@@ -1,0 +1,82 @@
+
+.container1 {
+
+    background-color: rgb(0, 119, 255);
+    height: 10em;
+    width: auto;
+    text-align: center;
+    border-radius: 1em;
+    box-shadow: 5px 10px;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    border-radius: 0.2em;
+    /* box-shadow: 5px 10px; */
+    padding-left: 5em;
+
+
+}
+
+.brand-logo{
+
+    margin-right: 10em;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.home{
+    background-color: rebeccapurple;
+
+    height: 20em ;
+
+/* align-self: center; */
+
+text-align: center;
+}
+
+.choose{
+    background-color: white;
+
+    height: 20em;
+    text-align: center;
+}
+/* .team{
+    background-color: red;
+
+    height: 5em;
+}
+
+.Testimomnials{
+    background-color: rgb(29, 197, 63);
+
+    height: 5em;
+}
+.clienst{
+    background-color: rgb(220, 22, 220);
+
+    height: 5em;
+}
+.address{
+    background-color: rgb(146, 151, 175);
+
+    height: 5em;
+} */ 
